@@ -85,11 +85,11 @@ per function, but let's start with this one.
 
 ### Running the Tests
 
-To run the tests, run `npm test` in the terminal. The first output you'll see
+To run the tests, run `learn test` in the terminal. The first output you'll see
 will look like this:
 
 ```console
-$ npm test
+$ learn test
 java-script-intro-to-functions-lab@0.1.0 test /Users/mbenton/Desktop/curriculum-team/junk/javascript-intro-to-functions-lab
 mocha -R mocha-multi --reporter-options spec=-,json=.results.json --timeout 10000
 
